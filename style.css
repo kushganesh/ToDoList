@@ -64,7 +64,8 @@ html {
         border-radius: 2rem;
         background-color: transparent;
         text-align: center;
-        font-size: 1.5rem;
+/*         font-size: 1.5rem; */
+           font-size:2rem;
 
     }
 
@@ -76,8 +77,10 @@ html {
         outline: none;
         border: 0;
         font-size: 2rem;
-        color: black;
-        background-color: rgb(237, 83, 27);
+/*         color: black;
+        background-color: rgb(237, 83, 27); */
+        color: red;
+        background-color:silver;
     }
 }
 
